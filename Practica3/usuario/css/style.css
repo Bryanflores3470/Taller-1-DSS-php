@@ -1,0 +1,20 @@
+#body{
+    background-color: #f3f4f6;
+}
+
+#a{
+    color: #FFF;
+    text-decoration: none;
+}
+
+#img{
+    transition: transform 1s;
+}
+
+#img:hover{
+    border-radius: 5%;
+    transform: scale(1.1);
+}
+
+
+
